@@ -5,7 +5,7 @@ obj
 *.datasource
 *.bak
 
-CodeChallenge/.ipynb_checkpoints
+.ipynb_checkpoints
 
 # Windows image file caches
 Thumbs.db
